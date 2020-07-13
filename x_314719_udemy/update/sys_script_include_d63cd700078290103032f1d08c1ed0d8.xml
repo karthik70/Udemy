@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_314719_udemy.GetCourseDetails</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>GetCourseDetails</name>
+        <script><![CDATA[var GetCourseDetails = Class.create();
+GetCourseDetails.prototype = {
+    initialize: function() {},
+
+
+    CourseDetail: function() {
+
+        var r = new sn_ws.RESTMessageV2('x_314719_udemy.Get Course Details', 'Default GET');
+
+        var Token = 'Gu46i7j3ikSPmQn6plhY6LCChQbOjW6G';
+
+        r.setRequestHeader('Authorization', 'Bearer ' + Token);
+        var response = r.execute();
+        var responseBody = response.getBody();
+        var httpStatus = response.getStatusCode();
+
+        
+        var parsedResponseBody = JSON.parse(responseBody);
+
+
+       return parsedResponseBody;
+
+    },
+
+    
+    type: 'GetCourseDetails'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-12 09:17:51</sys_created_on>
+        <sys_id>d63cd700078290103032f1d08c1ed0d8</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>GetCourseDetails</sys_name>
+        <sys_package display_value="Udemy" source="x_314719_udemy">61887ec4078e50103032f1d08c1ed0d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Udemy">61887ec4078e50103032f1d08c1ed0d2</sys_scope>
+        <sys_update_name>sys_script_include_d63cd700078290103032f1d08c1ed0d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-12 11:37:03</sys_updated_on>
+    </sys_script_include>
+</record_update>

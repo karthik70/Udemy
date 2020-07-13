@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_param_defs">
+    <sys_rest_message_fn_param_defs action="DELETE">
+        <name>fields</name>
+        <order>100</order>
+        <rest_message_function display_value="Get Published Date">6c41778c078290103032f1d08c1ed06b</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_param_defs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-12 11:04:32</sys_created_on>
+        <sys_id>1af3770007c290103032f1d08c1ed0a5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>fields</sys_name>
+        <sys_package display_value="Udemy" source="x_314719_udemy">61887ec4078e50103032f1d08c1ed0d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Udemy">61887ec4078e50103032f1d08c1ed0d2</sys_scope>
+        <sys_update_name>sys_rest_message_fn_param_defs_1af3770007c290103032f1d08c1ed0a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-12 11:08:50</sys_updated_on>
+        <value>url</value>
+    </sys_rest_message_fn_param_defs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Udemy">61887ec4078e50103032f1d08c1ed0d2</application>
+        <file_path/>
+        <instance_id>a4812709db5b4894f492c5970596198b</instance_id>
+        <instance_name>dev101755</instance_name>
+        <name>sys_rest_message_fn_param_defs_1af3770007c290103032f1d08c1ed0a5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_param_defs"><sys_rest_message_fn_param_defs action="INSERT_OR_UPDATE"><name>fields</name><order>100</order><rest_message_function display_value="Get Published Date">6c41778c078290103032f1d08c1ed06b</rest_message_function><sys_class_name>sys_rest_message_fn_param_defs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-12 11:04:32</sys_created_on><sys_id>1af3770007c290103032f1d08c1ed0a5</sys_id><sys_mod_count>2</sys_mod_count><sys_name>fields</sys_name><sys_package display_value="Udemy" source="x_314719_udemy">61887ec4078e50103032f1d08c1ed0d2</sys_package><sys_policy/><sys_scope display_value="Udemy">61887ec4078e50103032f1d08c1ed0d2</sys_scope><sys_update_name>sys_rest_message_fn_param_defs_1af3770007c290103032f1d08c1ed0a5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-12 11:08:50</sys_updated_on><value>url</value></sys_rest_message_fn_param_defs></record_update>]]></payload>
+        <payload_hash>-1414509726</payload_hash>
+        <record_name>fields</record_name>
+        <reverted_from/>
+        <source>25887ec4078e50103032f1d08c1ed0d4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-12 11:08:50</sys_created_on>
+        <sys_id>9bb5b34007c290103032f1d08c1ed000</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17342b69c100000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-12 11:08:50</sys_updated_on>
+        <type>HTTP Query Parameters</type>
+        <update_guid>d3b5b34087c2901019910f015905bf00</update_guid>
+        <update_guid_history>d3b5b34087c2901019910f015905bf00:-1414509726,43053340c0c290103be5c51bbc9ac000:1863687280,e8c4b7cc9e829010eb610d520f5d1890:-404120665</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-12 11:13:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_fn_param_defs">sys_rest_message_fn_param_defs</sys_db_object>
+        <sys_id>078ac12db9ae42c297ccdb55dda6bcc4</sys_id>
+        <sys_metadata>1af3770007c290103032f1d08c1ed0a5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fields</sys_name>
+        <sys_package display_value="Udemy" source="x_314719_udemy">61887ec4078e50103032f1d08c1ed0d2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Udemy">61887ec4078e50103032f1d08c1ed0d2</sys_scope>
+        <sys_scope_delete display_value="">6fe9581f3af74df8959b86b8f915e110</sys_scope_delete>
+        <sys_update_name>sys_rest_message_fn_param_defs_1af3770007c290103032f1d08c1ed0a5</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_fn_param_defs_1af3770007c290103032f1d08c1ed0a5">9bb5b34007c290103032f1d08c1ed000</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-12 11:13:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

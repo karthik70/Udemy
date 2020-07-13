@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Revenue" max_length="40" name="x_314719_udemy_revenue" sizeclass="44" type="collection">
+        <element label="Channel" max_length="32" name="channel" reference="x_314719_udemy_channel" type="reference"/>
+        <element label="Course" max_length="32" name="course" reference="x_314719_udemy_courses" type="reference"/>
+        <element label="Customer" max_length="32" name="customer" reference="sys_user" type="reference"/>
+        <element label="Exchange Rate" max_length="20" name="exchange_rate" type="decimal"/>
+        <element label="My Revenue" max_length="20" name="my_revenue" type="price"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Price Paid" max_length="20" name="price_paid" type="price"/>
+        <element label="Purchase Date" max_length="40" name="purchase_date" type="glide_date_time"/>
+        <element label="Share Price" max_length="20" name="share_price" type="price"/>
+        <element label="Store Fee" max_length="20" name="store_fee" type="price"/>
+        <element label="Tax Amount" max_length="20" name="tax_amount" type="price"/>
+        <element label="Tax Rate" max_length="40" name="tax_rate" type="integer"/>
+        <element label="Transaction ID" max_length="40" name="transaction_id" type="string"/>
+        <index name="index">
+            <element name="channel"/>
+        </index>
+        <index name="index2">
+            <element name="course"/>
+        </index>
+        <index name="index3">
+            <element name="customer"/>
+        </index>
+    </element>
+</database>

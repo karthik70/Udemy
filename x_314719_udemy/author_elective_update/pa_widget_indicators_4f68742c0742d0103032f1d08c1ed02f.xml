@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_widget_indicators">
+    <pa_widget_indicators action="DELETE">
+        <aggregate/>
+        <breakdown/>
+        <breakdown_level2/>
+        <chart_type>line</chart_type>
+        <color display_value="Crimson">65b3022ca9fe3dba00b0c2a1508ad489</color>
+        <element/>
+        <element_level2/>
+        <elements_filter/>
+        <follow_element>false</follow_element>
+        <follow_managed_element>false</follow_managed_element>
+        <followed_breakdown/>
+        <indicator display_value="Udemy Revenue Indicator">86823b98074e90103032f1d08c1ed0ff</indicator>
+        <label/>
+        <order>100</order>
+        <second_y_axis>false</second_y_axis>
+        <sys_class_name>pa_widget_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-13 10:39:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4f68742c0742d0103032f1d08c1ed02f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Udemy" source="x_314719_udemy">61887ec4078e50103032f1d08c1ed0d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Udemy">61887ec4078e50103032f1d08c1ed0d2</sys_scope>
+        <sys_update_name>pa_widget_indicators_4f68742c0742d0103032f1d08c1ed02f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-13 10:39:09</sys_updated_on>
+        <widget display_value="Revenue By Course">fb37206c0702d0103032f1d08c1ed007</widget>
+        <widget_indicator/>
+    </pa_widget_indicators>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Udemy">61887ec4078e50103032f1d08c1ed0d2</application>
+        <file_path/>
+        <instance_id>a4812709db5b4894f492c5970596198b</instance_id>
+        <instance_name>dev101755</instance_name>
+        <name>pa_widget_indicators_4f68742c0742d0103032f1d08c1ed02f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_widget_indicators"><pa_widget_indicators action="INSERT_OR_UPDATE"><aggregate/><breakdown/><breakdown_level2/><chart_type>line</chart_type><color display_value="Crimson">65b3022ca9fe3dba00b0c2a1508ad489</color><element/><element_level2/><elements_filter/><follow_element>false</follow_element><follow_managed_element>false</follow_managed_element><followed_breakdown/><indicator display_value="Udemy Revenue Indicator">86823b98074e90103032f1d08c1ed0ff</indicator><label/><order>100</order><second_y_axis>false</second_y_axis><sys_class_name>pa_widget_indicators</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-13 10:39:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4f68742c0742d0103032f1d08c1ed02f</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Udemy" source="x_314719_udemy">61887ec4078e50103032f1d08c1ed0d2</sys_package><sys_policy/><sys_scope display_value="Udemy">61887ec4078e50103032f1d08c1ed0d2</sys_scope><sys_update_name>pa_widget_indicators_4f68742c0742d0103032f1d08c1ed02f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-13 10:39:09</sys_updated_on><widget display_value="Revenue By Course">fb37206c0702d0103032f1d08c1ed007</widget><widget_indicator/></pa_widget_indicators></record_update>]]></payload>
+        <payload_hash>1092382141</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>25887ec4078e50103032f1d08c1ed0d4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-13 10:39:10</sys_created_on>
+        <sys_id>aa88bc2c0742d0103032f1d08c1ed029</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17347c1ccb80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-13 10:39:10</sys_updated_on>
+        <type>Widget Indicator</type>
+        <update_guid>a288bc2cd542d01066e26be63b547429</update_guid>
+        <update_guid_history>a288bc2cd542d01066e26be63b547429:1092382141</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">7ef8b86c0742d0103032f1d08c1ed0bd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-13 10:41:05</sys_created_on>
+        <sys_db_object display_value="" name="pa_widget_indicators">pa_widget_indicators</sys_db_object>
+        <sys_id>8cef4a68c2ec49149baa6f6865a1dfa4</sys_id>
+        <sys_metadata>4f68742c0742d0103032f1d08c1ed02f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Udemy" source="x_314719_udemy">61887ec4078e50103032f1d08c1ed0d2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Udemy">61887ec4078e50103032f1d08c1ed0d2</sys_scope>
+        <sys_scope_delete display_value="">6fe9581f3af74df8959b86b8f915e110</sys_scope_delete>
+        <sys_update_name>pa_widget_indicators_4f68742c0742d0103032f1d08c1ed02f</sys_update_name>
+        <sys_update_version display_value="pa_widget_indicators_4f68742c0742d0103032f1d08c1ed02f">aa88bc2c0742d0103032f1d08c1ed029</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-13 10:41:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

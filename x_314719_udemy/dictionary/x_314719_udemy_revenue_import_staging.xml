@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Revenue Import Data Source" max_length="40" name="x_314719_udemy_revenue_import_staging" sizeclass="59" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Channel" label="Channel" max_length="40" name="u_channel" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Course" label="Course" max_length="40" name="u_course" type="string"/>
+        <element attributes="import_attribute_name=Exchange Rate" label="Exchange Rate" max_length="40" name="u_exchange_rate" type="integer"/>
+        <element attributes="import_attribute_name=Instructor Share" label="Instructor Share" max_length="15" name="u_instructor_share" type="decimal"/>
+        <element attributes="import_attribute_name=Paid Price" label="Paid Price" max_length="15" name="u_paid_price" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Purchase Date" label="Purchase Date" max_length="40" name="u_purchase_date" type="glide_date"/>
+        <element attributes="import_attribute_name=Share Price" label="Share Price" max_length="15" name="u_share_price" type="decimal"/>
+        <element attributes="import_attribute_name=Store Fee" label="Store Fee" max_length="15" name="u_store_fee" type="decimal"/>
+        <element attributes="import_attribute_name=Tax Amount" label="Tax Amount" max_length="15" name="u_tax_amount" type="decimal"/>
+        <element attributes="import_attribute_name=Tax Rate" label="Tax Rate" max_length="40" name="u_tax_rate" type="integer"/>
+        <element attributes="import_attribute_name=Transaction Id" label="Transaction Id" max_length="40" name="u_transaction_id" type="float"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=User" label="User" max_length="40" name="u_user" type="string"/>
+    </element>
+</database>

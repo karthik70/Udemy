@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_sources">
+    <pa_m2m_dashboard_sources action="INSERT_OR_UPDATE">
+        <breakdown_source display_value="Course Breakdown Source">4003ff98074e90103032f1d08c1ed02c</breakdown_source>
+        <dashboard display_value="Udemy Revenue Analysis">b25cd8e40702d0103032f1d08c1ed0b6</dashboard>
+        <order>100</order>
+        <publisher/>
+        <sys_class_name>pa_m2m_dashboard_sources</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-13 09:54:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e74ea8640742d0103032f1d08c1ed0ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Udemy Revenue Analysis.Course Breakdown Source</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Udemy" source="x_314719_udemy">61887ec4078e50103032f1d08c1ed0d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Udemy">61887ec4078e50103032f1d08c1ed0d2</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_sources_e74ea8640742d0103032f1d08c1ed0ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-13 09:54:27</sys_updated_on>
+    </pa_m2m_dashboard_sources>
+</record_update>

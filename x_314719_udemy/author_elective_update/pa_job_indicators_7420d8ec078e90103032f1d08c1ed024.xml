@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="DELETE">
+        <active>true</active>
+        <collect>1</collect>
+        <collect_indicator>true</collect_indicator>
+        <display>Udemy Enrollement By Customer Data Collection Job - Udemy Enrollement Indicator</display>
+        <indicator display_value="Udemy Enrollement Indicator">4fa788e4078e90103032f1d08c1ed01b</indicator>
+        <job display_value="Udemy Enrollement By Customer Data Collection Job">aeef042007ce90103032f1d08c1ed076</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-13 07:42:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7420d8ec078e90103032f1d08c1ed024</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Udemy Enrollement Indicator.Udemy Enrollement By Customer Data Collection Job</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Udemy" source="x_314719_udemy">61887ec4078e50103032f1d08c1ed0d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Udemy">61887ec4078e50103032f1d08c1ed0d2</sys_scope>
+        <sys_update_name>pa_job_indicators_7420d8ec078e90103032f1d08c1ed024</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-13 07:42:39</sys_updated_on>
+    </pa_job_indicators>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Udemy">61887ec4078e50103032f1d08c1ed0d2</application>
+        <file_path/>
+        <instance_id>a4812709db5b4894f492c5970596198b</instance_id>
+        <instance_name>dev101755</instance_name>
+        <name>pa_job_indicators_7420d8ec078e90103032f1d08c1ed024</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators"><pa_job_indicators action="INSERT_OR_UPDATE"><active>true</active><collect>1</collect><collect_indicator>true</collect_indicator><display>Udemy Enrollement By Customer Data Collection Job - Udemy Enrollement Indicator</display><indicator display_value="Udemy Enrollement Indicator">4fa788e4078e90103032f1d08c1ed01b</indicator><job display_value="Udemy Enrollement By Customer Data Collection Job">aeef042007ce90103032f1d08c1ed076</job><sys_class_name>pa_job_indicators</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-13 07:42:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7420d8ec078e90103032f1d08c1ed024</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Udemy Enrollement Indicator.Udemy Enrollement By Customer Data Collection Job</sys_name><sys_overrides/><sys_package display_value="Udemy" source="x_314719_udemy">61887ec4078e50103032f1d08c1ed0d2</sys_package><sys_policy/><sys_scope display_value="Udemy">61887ec4078e50103032f1d08c1ed0d2</sys_scope><sys_update_name>pa_job_indicators_7420d8ec078e90103032f1d08c1ed024</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-13 07:42:39</sys_updated_on></pa_job_indicators></record_update>]]></payload>
+        <payload_hash>1898131543</payload_hash>
+        <record_name>Udemy Enrollement By Customer Data Collection Job - Udemy Enrollement Indicator</record_name>
+        <reverted_from/>
+        <source>25887ec4078e50103032f1d08c1ed0d4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-13 07:42:39</sys_created_on>
+        <sys_id>8920106007ce90103032f1d08c1ed032</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173472034850000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-13 07:42:39</sys_updated_on>
+        <type>Job Indicator</type>
+        <update_guid>0d20d8eccb8e901068b2fa9a90f9ad28</update_guid>
+        <update_guid_history>0d20d8eccb8e901068b2fa9a90f9ad28:1898131543</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Udemy Enrollement By Customer Data Collection Job - Udemy Enrollement Indicator">03eb54e40702d0103032f1d08c1ed0e2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-13 08:34:08</sys_created_on>
+        <sys_db_object display_value="" name="pa_job_indicators">pa_job_indicators</sys_db_object>
+        <sys_id>38035324fc0a44dd874486bb59fe2699</sys_id>
+        <sys_metadata>7420d8ec078e90103032f1d08c1ed024</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Udemy Enrollement Indicator.Udemy Enrollement By Customer Data Collection Job</sys_name>
+        <sys_package display_value="Udemy" source="x_314719_udemy">61887ec4078e50103032f1d08c1ed0d2</sys_package>
+        <sys_parent display_value="">aeef042007ce90103032f1d08c1ed076</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Udemy">61887ec4078e50103032f1d08c1ed0d2</sys_scope>
+        <sys_scope_delete display_value="">6fe9581f3af74df8959b86b8f915e110</sys_scope_delete>
+        <sys_update_name>pa_job_indicators_7420d8ec078e90103032f1d08c1ed024</sys_update_name>
+        <sys_update_version display_value="pa_job_indicators_7420d8ec078e90103032f1d08c1ed024">8920106007ce90103032f1d08c1ed032</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-13 08:34:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

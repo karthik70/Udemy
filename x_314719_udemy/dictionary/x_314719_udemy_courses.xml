@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Courses" max_length="40" name="x_314719_udemy_courses" sizeclass="7" type="collection">
+        <element label="ID" max_length="40" name="id" type="string"/>
+        <element label="Pricing" max_length="40" name="pricing" type="string"/>
+        <element label="Status" max_length="40" name="status" type="string"/>
+        <element display="true" label="Title" max_length="40" name="title" type="string"/>
+        <element label="URL" max_length="40" name="url" type="string"/>
+        <index name="index">
+            <element name="id"/>
+        </index>
+    </element>
+</database>

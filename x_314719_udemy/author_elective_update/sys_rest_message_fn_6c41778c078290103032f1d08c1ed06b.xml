@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="DELETE">
+        <authentication_type>no_authentication</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>Get Published Date</function_name>
+        <http_method>get</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>Get Course Details [ Get Published Date ]</qualified_name>
+        <rest_endpoint>https://www.udemy.com/instructor-api/v1/taught-courses/courses/</rest_endpoint>
+        <rest_message display_value="Get Course Details">7c808bcc07ce50103032f1d08c1ed05d</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-12 10:49:34</sys_created_on>
+        <sys_id>6c41778c078290103032f1d08c1ed06b</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Get Published Date</sys_name>
+        <sys_package display_value="Udemy" source="x_314719_udemy">61887ec4078e50103032f1d08c1ed0d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Udemy">61887ec4078e50103032f1d08c1ed0d2</sys_scope>
+        <sys_update_name>sys_rest_message_fn_6c41778c078290103032f1d08c1ed06b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-12 11:01:04</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Udemy">61887ec4078e50103032f1d08c1ed0d2</application>
+        <file_path/>
+        <instance_id>a4812709db5b4894f492c5970596198b</instance_id>
+        <instance_name>dev101755</instance_name>
+        <name>sys_rest_message_fn_6c41778c078290103032f1d08c1ed06b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn"><sys_rest_message_fn action="INSERT_OR_UPDATE"><authentication_type>no_authentication</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><content/><function_name>Get Published Date</function_name><http_method>get</http_method><lock>false</lock><oauth2_profile/><protocol_name/><qualified_name>Get Course Details [ Get Published Date ]</qualified_name><rest_endpoint>https://www.udemy.com/instructor-api/v1/taught-courses/courses/</rest_endpoint><rest_message display_value="Get Course Details">7c808bcc07ce50103032f1d08c1ed05d</rest_message><sys_class_name>sys_rest_message_fn</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-12 10:49:34</sys_created_on><sys_id>6c41778c078290103032f1d08c1ed06b</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Get Published Date</sys_name><sys_package display_value="Udemy" source="x_314719_udemy">61887ec4078e50103032f1d08c1ed0d2</sys_package><sys_policy/><sys_scope display_value="Udemy">61887ec4078e50103032f1d08c1ed0d2</sys_scope><sys_update_name>sys_rest_message_fn_6c41778c078290103032f1d08c1ed06b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-12 11:01:04</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mid_server/><use_mutual_auth>false</use_mutual_auth></sys_rest_message_fn></record_update>]]></payload>
+        <payload_hash>691505347</payload_hash>
+        <record_name>Get Published Date</record_name>
+        <reverted_from/>
+        <source>25887ec4078e50103032f1d08c1ed0d4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-12 11:01:04</sys_created_on>
+        <sys_id>a5f3b70007c290103032f1d08c1ed0e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17342af7e110000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-12 11:01:04</sys_updated_on>
+        <type>HTTP Method</type>
+        <update_guid>edf3b7009dc290106b787ae8e86fbfe7</update_guid>
+        <update_guid_history>edf3b7009dc290106b787ae8e86fbfe7:691505347,b4d3bbcc518290108bd87e1d15d51537:-530339671,5c02ff8c08829010a11346babe205da4:-1273877844,92e1f78cc5829010a462ca4565291cf1:-1198458031,41513b8c8d829010f9c8113817101bb5:-69840770</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-12 11:13:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_fn">sys_rest_message_fn</sys_db_object>
+        <sys_id>09f5228c15f64c3fa47bd019e3c8c931</sys_id>
+        <sys_metadata>6c41778c078290103032f1d08c1ed06b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get Published Date</sys_name>
+        <sys_package display_value="Udemy" source="x_314719_udemy">61887ec4078e50103032f1d08c1ed0d2</sys_package>
+        <sys_parent display_value="Get Course Details">7c808bcc07ce50103032f1d08c1ed05d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Udemy">61887ec4078e50103032f1d08c1ed0d2</sys_scope>
+        <sys_scope_delete display_value="">6fe9581f3af74df8959b86b8f915e110</sys_scope_delete>
+        <sys_update_name>sys_rest_message_fn_6c41778c078290103032f1d08c1ed06b</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_fn_6c41778c078290103032f1d08c1ed06b">a5f3b70007c290103032f1d08c1ed0e8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-12 11:13:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

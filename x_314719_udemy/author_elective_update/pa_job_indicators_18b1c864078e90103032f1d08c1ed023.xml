@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="DELETE">
+        <active>true</active>
+        <collect>3</collect>
+        <collect_indicator>true</collect_indicator>
+        <display>Udemy Revenue Data Collection Job - Total Udemy Revenue</display>
+        <indicator display_value="Total Udemy Revenue">d651c824078e90103032f1d08c1ed0e4</indicator>
+        <job display_value="Udemy Revenue Data Collection Job">5b043fd8074e90103032f1d08c1ed0a4</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-13 06:39:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>18b1c864078e90103032f1d08c1ed023</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Total Udemy Revenue.Udemy Revenue Data Collection Job</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Udemy" source="x_314719_udemy">61887ec4078e50103032f1d08c1ed0d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Udemy">61887ec4078e50103032f1d08c1ed0d2</sys_scope>
+        <sys_update_name>pa_job_indicators_18b1c864078e90103032f1d08c1ed023</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-13 06:39:54</sys_updated_on>
+    </pa_job_indicators>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Udemy">61887ec4078e50103032f1d08c1ed0d2</application>
+        <file_path/>
+        <instance_id>a4812709db5b4894f492c5970596198b</instance_id>
+        <instance_name>dev101755</instance_name>
+        <name>pa_job_indicators_18b1c864078e90103032f1d08c1ed023</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators"><pa_job_indicators action="INSERT_OR_UPDATE"><active>true</active><collect>3</collect><collect_indicator>true</collect_indicator><display>Udemy Revenue Data Collection Job - Total Udemy Revenue</display><indicator display_value="Total Udemy Revenue">d651c824078e90103032f1d08c1ed0e4</indicator><job display_value="Udemy Revenue Data Collection Job">5b043fd8074e90103032f1d08c1ed0a4</job><sys_class_name>pa_job_indicators</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-13 06:39:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>18b1c864078e90103032f1d08c1ed023</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Total Udemy Revenue.Udemy Revenue Data Collection Job</sys_name><sys_overrides/><sys_package display_value="Udemy" source="x_314719_udemy">61887ec4078e50103032f1d08c1ed0d2</sys_package><sys_policy/><sys_scope display_value="Udemy">61887ec4078e50103032f1d08c1ed0d2</sys_scope><sys_update_name>pa_job_indicators_18b1c864078e90103032f1d08c1ed023</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-13 06:39:54</sys_updated_on></pa_job_indicators></record_update>]]></payload>
+        <payload_hash>-1799735499</payload_hash>
+        <record_name>Udemy Revenue Data Collection Job - Total Udemy Revenue</record_name>
+        <reverted_from/>
+        <source>25887ec4078e50103032f1d08c1ed0d4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-13 06:39:54</sys_created_on>
+        <sys_id>e9c14c64078e90103032f1d08c1ed066</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17346e6bff40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-13 06:39:54</sys_updated_on>
+        <type>Job Indicator</type>
+        <update_guid>25c14c64bf8e901014ed3e9d5c90ff66</update_guid>
+        <update_guid_history>25c14c64bf8e901014ed3e9d5c90ff66:-1799735499,1cb1c864348e9010b19f85986de9db28:-1797740493</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Udemy Revenue Data Collection Job - ">8424cce4078e90103032f1d08c1ed095</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-13 06:50:10</sys_created_on>
+        <sys_db_object display_value="" name="pa_job_indicators">pa_job_indicators</sys_db_object>
+        <sys_id>2cb7fa4d72d847b9919b705a45e7b2e1</sys_id>
+        <sys_metadata>18b1c864078e90103032f1d08c1ed023</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Total Udemy Revenue.Udemy Revenue Data Collection Job</sys_name>
+        <sys_package display_value="Udemy" source="x_314719_udemy">61887ec4078e50103032f1d08c1ed0d2</sys_package>
+        <sys_parent display_value="Udemy Revenue Data Collection Job">5b043fd8074e90103032f1d08c1ed0a4</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Udemy">61887ec4078e50103032f1d08c1ed0d2</sys_scope>
+        <sys_scope_delete display_value="">6fe9581f3af74df8959b86b8f915e110</sys_scope_delete>
+        <sys_update_name>pa_job_indicators_18b1c864078e90103032f1d08c1ed023</sys_update_name>
+        <sys_update_version display_value="pa_job_indicators_18b1c864078e90103032f1d08c1ed023">e9c14c64078e90103032f1d08c1ed066</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-13 06:50:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

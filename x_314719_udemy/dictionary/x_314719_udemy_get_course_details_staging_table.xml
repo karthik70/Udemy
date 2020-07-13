@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Get Course Details Data Source" max_length="40" name="x_314719_udemy_get_course_details_staging_table" sizeclass="103" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_id" label="ID" max_length="40" name="u_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_pricing" label="Pricing" max_length="40" name="u_pricing" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_status" label="Status" max_length="40" name="u_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_title" label="Title" max_length="41" name="u_title" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_url" label="URL" max_length="49" name="u_url" type="string"/>
+    </element>
+</database>

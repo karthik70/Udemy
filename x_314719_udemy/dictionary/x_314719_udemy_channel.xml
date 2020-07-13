@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Channel" max_length="40" name="x_314719_udemy_channel" sizeclass="4" type="collection">
+        <element display="true" label="Channel" max_length="40" name="channel" type="string"/>
+    </element>
+</database>

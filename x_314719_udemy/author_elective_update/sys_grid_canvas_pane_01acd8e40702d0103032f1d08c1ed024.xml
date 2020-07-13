@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="DELETE">
+        <grid_canvas display_value="PA Udemy Revenue Analys - New Tab">e97c1ce40702d0103032f1d08c1ed0de</grid_canvas>
+        <height>13</height>
+        <portal_widget display_value="Created 2020-07-13 08:37:17">c1acd8e40702d0103032f1d08c1ed021</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-13 08:37:17</sys_created_on>
+        <sys_id>01acd8e40702d0103032f1d08c1ed024</sys_id>
+        <sys_mod_count>34</sys_mod_count>
+        <sys_name>e97c1ce40702d0103032f1d08c1ed0de</sys_name>
+        <sys_package display_value="Udemy" source="x_314719_udemy">61887ec4078e50103032f1d08c1ed0d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Udemy">61887ec4078e50103032f1d08c1ed0d2</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_01acd8e40702d0103032f1d08c1ed024</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-13 10:36:02</sys_updated_on>
+        <width>8</width>
+    </sys_grid_canvas_pane>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Udemy">61887ec4078e50103032f1d08c1ed0d2</application>
+        <file_path/>
+        <instance_id>a4812709db5b4894f492c5970596198b</instance_id>
+        <instance_name>dev101755</instance_name>
+        <name>sys_grid_canvas_pane_01acd8e40702d0103032f1d08c1ed024</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA Udemy Revenue Analys - New Tab">e97c1ce40702d0103032f1d08c1ed0de</grid_canvas><height>13</height><portal_widget display_value="Created 2020-07-13 08:37:17">c1acd8e40702d0103032f1d08c1ed021</portal_widget><posx>0</posx><posy>0</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-13 08:37:17</sys_created_on><sys_id>01acd8e40702d0103032f1d08c1ed024</sys_id><sys_mod_count>34</sys_mod_count><sys_name>e97c1ce40702d0103032f1d08c1ed0de</sys_name><sys_package display_value="Udemy" source="x_314719_udemy">61887ec4078e50103032f1d08c1ed0d2</sys_package><sys_policy/><sys_scope display_value="Udemy">61887ec4078e50103032f1d08c1ed0d2</sys_scope><sys_update_name>sys_grid_canvas_pane_01acd8e40702d0103032f1d08c1ed024</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-13 10:36:02</sys_updated_on><width>8</width></sys_grid_canvas_pane></record_update>]]></payload>
+        <payload_hash>-1295495607</payload_hash>
+        <record_name>e97c1ce40702d0103032f1d08c1ed0de</record_name>
+        <reverted_from/>
+        <source>25887ec4078e50103032f1d08c1ed0d4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-13 10:36:02</sys_created_on>
+        <sys_id>78d7f82c0742d0103032f1d08c1ed0b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17347bef0ab0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-13 10:36:02</sys_updated_on>
+        <type>Grid Canvas Pane</type>
+        <update_guid>30d7f82c0642d01052d92245a01bfab0</update_guid>
+        <update_guid_history>30d7f82c0642d01052d92245a01bfab0:-1295495607,bd47b42c5342d010dca4fd399f6d83c1:2029890666,cd47b02cf142d01042fdea5bd9cd9885:1668327598,6f37b02c3e42d010309bf903e976cb7e:2029890666,cb27742c5042d0106ddf1ab1d845c627:-477401019,3717f8e8fb42d0109d5ce4a07e160d93:-472337079,4e17b02cb742d010febeea72b0e296f1:908823208,5917bce85242d0105fb74609f701d1ed:297634386,a240b0e49042d010c187610c78c72791:-767332845,648e68644242d01017518f402db2de6d:297634386,403e68641142d010efef032e7c23aebc:-1832300076,fcac60245142d01078146706a63f52b1:262536014,f39c6424a542d010f5834f74fd0c0feb:-1832300076,f8e824606a42d01040b4a4e5cce01c0a:262536014,e8a7e420cd42d010a629e0f2d2c42b2d:-1832300076,0337ecec6502d0104b8a2db78be773ab:1327503245,5a73206c8e02d0106bba5d18a8b46c03:908823208,4e63282c4c02d01098ac7cde93171229:-60757815,49632c2cf302d010d4a7e2f3a058dbf7:108510992,7923ec2c7002d010ae79455c8a017748:1878404231,97e2a82c9202d0105a875da1b747edef:-1962784656,de82282cc502d010e5e7ffde7d4c9821:-1997883028,cf51e8e86c02d01085a62a00de7680ee:1878404231,2e5164e8d102d010c546d1c8876b5740:345757509,a9512ca86b02d0108f9527e4b2495741:497243944,05b064e81f02d010f3f91ca8cd7d4208:1878404231,9cb020e8e402d010646aa289aa2d3409:497243944,58bfd4680802d01039ba1e23a7d70660:-1730474902,2e3f9c68dc02d0100c7b06bf18e39495:-883916343,4f2f9c681a02d0108445fd91723de09c:67381795,952fd4685902d010aa162e22d683b32f:1187882183,4c2f9c684002d010aa595b61b943e999:345757509,bebdd8287902d010cfa66b3afa099dc7:-2021015329,593d10287402d0103c1d937c0fc57c8b:1739135715,c9acd8e46002d010b9f17176353a2825:-2037452609</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-13 10:43:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas_pane">sys_grid_canvas_pane</sys_db_object>
+        <sys_id>46ad5b9d423b4f40a2d40d7dc453ab10</sys_id>
+        <sys_metadata>01acd8e40702d0103032f1d08c1ed024</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e97c1ce40702d0103032f1d08c1ed0de</sys_name>
+        <sys_package display_value="Udemy" source="x_314719_udemy">61887ec4078e50103032f1d08c1ed0d2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Udemy">61887ec4078e50103032f1d08c1ed0d2</sys_scope>
+        <sys_scope_delete display_value="">6fe9581f3af74df8959b86b8f915e110</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_pane_01acd8e40702d0103032f1d08c1ed024</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_pane_01acd8e40702d0103032f1d08c1ed024">78d7f82c0742d0103032f1d08c1ed0b0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-13 10:43:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
